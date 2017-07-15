@@ -10,16 +10,16 @@ tudo automaticamente.
 
 É uma versão FREE do NginxFacil PRO do nosso amigo Robson Leite.
 
-Pacotes a ser instalados
-Servidor Web Nginx
-PHP7-FPM
-Lets Encrypt SSL Grátis
-Suporte HTTP2
-Otimização php.ini
-Banco MariaDB
-ISPConfig 3.1
-Pure FTP
-Jailkil e Rkhunter
-PhpMyAdmin
-HHVM
-composer
+Pacotes a ser instalados<br>
+Servidor Web Nginx<br>
+PHP7-FPM<br>
+Lets Encrypt SSL Grátis<br>
+Suporte HTTP2<br>
+Otimização php.ini<br>
+Banco MariaDB<br>
+ISPConfig 3.1<br>
+Pure FTP<br>
+Jailkil e Rkhunter<br>
+PhpMyAdmin<br>
+HHVM<br>
+composer<br>
