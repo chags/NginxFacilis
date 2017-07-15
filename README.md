@@ -1,14 +1,15 @@
 # NginxFacilis
-NginxFacilis é um arquivo de shell script para instalar e configurar um servidor Debian ou ubuntu com Nginx
+NginxFacilis é um arquivo de shell script para instalar e configurar um servidor Debian ou ubuntu com Nginx.
 
-Preciamos de ajuda com quem sabe a linguagem Shell script para tornar esse arquivo realidade
-e vamos  desenvolver ele para Ubuntu, Debian e CentOS.
+Preciamos de ajuda com quem sabe a linguagem Shell script<br> 
+para tornar esse arquivo realidade<br>
+e vamos  desenvolver ele para Ubuntu, Debian e CentOS.<br>
 
-basta rodar ele no terminal do Debian 8 ou ubuntu 
-para que ele fala a instalação dos pacotes abaixo
-tudo automaticamente.
+basta rodar ele no terminal do Debian 8 ou ubuntu<br> 
+para que ele fala a instalação dos pacotes abaixo<br>
+tudo automaticamente.<br><br>
 
-É uma versão FREE do NginxFacil PRO do nosso amigo Robson Leite.
+É uma versão FREE do <b>NginxFacil PRO<b> do nosso amigo Robson Leite.<br>
 
 Pacotes a ser instalados<br>
 Servidor Web Nginx<br>
