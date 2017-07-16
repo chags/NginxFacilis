@@ -32,7 +32,7 @@ apt-get install phpmyadmin
 apt-get install rkhunter
 
 
-Jailkit
+#Jailkit
 apt-get install build-essential autoconf automake1.9 libtool flex bison debhelper binutils-gold python
 wget https://olivier.sessink.nl/jailkit/jailkit-2.19.tar.gz
 tar xvfz jailkit-2.19.tar.gz
